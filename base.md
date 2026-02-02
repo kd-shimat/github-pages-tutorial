@@ -151,5 +151,4 @@ pagenate: true
 ---
 # 実例
 
-- この[スライド自身](https://densuke.github.io/github-pages-tutorial/)もGitHub Pagesで公開されています。
-- Actions記述は[こちら](https://github.com/densuke/github-pages-tutorial/blob/main/.github/workflows/marp-deploy.yml)
+- この[スライド自身](https://github.com/kd-shimat/github-pages-tutorial)もGitHub Pagesで公開されています。
