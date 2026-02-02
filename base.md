@@ -10,8 +10,6 @@ _color: white
 
 # GitHub Pagesセミナー
 
-SATO Daisuke <densuke@st.kobedenshi.ac.jp>
-
 ---
 <!--
 theme: gaia
