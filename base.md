@@ -1,7 +1,7 @@
 ---
 marp: true
 header: "__GitHub Pagesセミナー__"
-footer: "2025/1/31"
+footer: "2026/2/4"
 ---
 <!--
 _color: white
